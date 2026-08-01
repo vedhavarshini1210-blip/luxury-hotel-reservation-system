@@ -1,5 +1,12 @@
 # 🏨 Luxury Hotel Reservation System
 
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-Local_Server-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ## Overview
 
 The **Luxury Hotel Reservation System** is a web-based application developed using **PHP, MySQL, HTML, CSS, and JavaScript** to simplify hotel room reservation and management. The system enables customers to view available rooms, make reservations, and manage booking details through an interactive and user-friendly interface.
